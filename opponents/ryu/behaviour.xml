@@ -14,7 +14,7 @@
     <wardrobe>
         <clothing lowercase="underwear" position="lower" proper-name="Underwear" type="important" />
         <clothing lowercase="head band" position="other" proper-name="Head band" type="extra" />
-        <clothing lowercase="pants" position="lower" proper-name="Pants" type="important" />
+        <clothing lowercase="pants" position="lower" proper-name="Pants" type="major" />
         <clothing lowercase="jacket" position="upper" proper-name="Jacket" type="important" />
         <clothing lowercase="belt" position="other" proper-name="Belt" type="extra" />
         <clothing lowercase="gloves" position="other" proper-name="Gloves" type="extra" />
@@ -1222,7 +1222,7 @@
                 <state img="8-confident.png">I'm not the only one hiding a mighty dragon!</state>
             </case>
             <case tag="female_crotch_will_be_visible">
-                <state img="8-horny.png">Now I get so see a woman's sacred place?</state>
+                <state img="8-horny.png">Now I get to see a woman's sacred place?</state>
             </case>
             <case tag="male_removed_minor">
                 <state img="8-shy.png">I apologize for that outburst. I suppose I am "salty".</state>
